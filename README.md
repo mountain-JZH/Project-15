@@ -1,5 +1,5 @@
 # Project-15
-# OFDM PAPR Reduction with Clipping and Filtering
+# Peak-to-Average-Power Ratio (PAPR) Reduction Technique for Multicarrier Signal over Fibre Transmission
 
 This repository contains MATLAB code for simulating an **OFDM system** with **Novel, real-time & protocol independent peak-to-average-power ratio (PAPR) reduction** .
 The implementation demonstrates modulation, clipping, PAPR reduction, optical link simulation (MZM, fiber, photodiode), and performance evaluation.
