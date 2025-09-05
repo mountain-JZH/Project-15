@@ -6,7 +6,7 @@ The implementation demonstrates modulation, clipping, PAPR reduction, optical li
 
 ---
 
-## 📌 Features
+## Features
 - 16-QAM OFDM modulation and demodulation
 - Time-domain clipping for PAPR reduction
 - Out-of-band distortion filtering
@@ -18,15 +18,9 @@ The implementation demonstrates modulation, clipping, PAPR reduction, optical li
 
 ---
 
-## 🛠 Requirements
-- MATLAB R2021a or newer
+## Platform
+- MATLAB R2024b
 - Communications System Toolbox
 - Signal Processing Toolbox
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/OFDM-PAPR-Reduction.git
-   cd OFDM-PAPR-Reduction
