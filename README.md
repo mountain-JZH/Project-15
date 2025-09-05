@@ -24,3 +24,16 @@ The implementation demonstrates modulation, clipping, PAPR reduction, optical li
 - Signal Processing Toolbox
 
 ---
+## File Structure
+
+- **P0816E.m**  
+  Main code for the OFDM simulation.  
+
+
+- **filterN01.m**  
+  MATLAB filter definition
+
+
+- **filterN02.m**  
+  MATLAB filter definition 
+
